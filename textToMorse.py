@@ -62,5 +62,3 @@ def morseToYo(morsemessage):
 			longYo()
 		else:
 			print " "
-
-print morseToYo(textToMorse("Yo! SOS..."))

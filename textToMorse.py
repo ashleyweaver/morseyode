@@ -1,3 +1,5 @@
+from time import sleep
+
 def textToMorse(message):
 	message = message.upper()
 	morse = ""
